@@ -1,0 +1,2 @@
+# noteblock-octave-range
+GMusicなどに対応している音ブロックで高い音を出すためのリソースパック
